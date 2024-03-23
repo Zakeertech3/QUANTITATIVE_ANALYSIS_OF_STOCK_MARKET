@@ -7,7 +7,8 @@ This project involves quantitative analysis of stock market data, focusing on de
 
 Features:
 
-1. Descriptive Statistics: Summary statistics for stock data, including mean, median, standard deviation, and more.
+1. Descriptive Statistics: Summary statistics for stock data, including mean, median, standard deviation, and more. ![newplot](https://github.com/Zakeertech3/QUANTITATIVE_ANALYSIS_OF_STOCK_MARKET/assets/162958697/7ba5f5a2-4886-4be4-86fe-e605e791a52b)
+
 2. Time Series Analysis: Visual representation of stock prices over time to identify trends.
 3. Volatility Analysis: Examination of the fluctuation in stock prices through standard deviation.
 4. Correlation Analysis: Analysis of how different stock prices are related using a correlation matrix.
