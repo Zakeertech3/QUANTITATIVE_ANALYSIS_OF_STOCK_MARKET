@@ -21,6 +21,9 @@ Technologies Used:
 
 Python
 Pandas for data manipulation
+
 Plotly for interactive visualization
+
 NumPy for numerical analysis
+
 Matplotlib for plotting (specifically for MACD and Bollinger Bands)
